@@ -1,0 +1,2 @@
+Grails-JS-Minifier-Plugin
+=========================
